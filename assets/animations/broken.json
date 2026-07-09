@@ -1,0 +1,126 @@
+[{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/ChatGPT Image Jul 3, 2026, 05_04_41 PM.png",
+    "permissions": 644,
+    "format": "JSON",
+    "formatDescription": "The image format and characteristics",
+    "mimeType": "application/json",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 853,
+      "height": 1844,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 1572932,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 113.534,
+        "standardDeviation": 63.2963,
+        "kurtosis": -1.31314,
+        "skewness": 0.109308,
+        "entropy": 0.933767
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 58.5563,
+        "standardDeviation": 61.2376,
+        "kurtosis": 0.658039,
+        "skewness": 1.21214,
+        "entropy": 0.89492
+      },
+      "green": {
+        "min": 2,
+        "max": 255,
+        "mean": 121.435,
+        "standardDeviation": 53.0457,
+        "kurtosis": -0.741681,
+        "skewness": 0.206011,
+        "entropy": 0.965111
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 160.612,
+        "standardDeviation": 75.6056,
+        "kurtosis": -0.776181,
+        "skewness": -0.824069,
+        "entropy": 0.941269
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "matteColor": "#BDBDBD",
+    "transparentColor": "#000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 853,
+      "height": 1844,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "compression": "Zip",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2026-07-03T11:27:44+00:00",
+      "date:modify": "2026-07-03T11:27:44+00:00",
+      "date:timestamp": "2026-07-03T11:27:46+00:00",
+      "png:IHDR.bit-depth-orig": "8",
+      "png:IHDR.bit_depth": "8",
+      "png:IHDR.color-type-orig": "2",
+      "png:IHDR.color_type": "2 (Truecolor)",
+      "png:IHDR.interlace_method": "0 (Not interlaced)",
+      "png:IHDR.width,height": "853, 1844",
+      "signature": "ec597eeb8a23f121d5576d0dace763ae2f943516441a5d59a21371fc6f923e97"
+    },
+    "tainted": false,
+    "filesize": "2.0552MB",
+    "numberPixels": "1.57293M",
+    "pixelsPerSecond": "37.5058MB",
+    "userTime": "0.040u",
+    "elapsedTime": "0:01.041",
+    "version": "ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org"
+  }
+}
+]
