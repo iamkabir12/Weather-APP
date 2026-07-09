@@ -18,17 +18,19 @@ A modern Flutter Weather Application featuring real-time weather, hourly & 5-day
 
 | Home | Search |
 |------|--------|
-| ![](screenshots/home.png) | ![](screenshots/search.png) |
+| ![](screenshots/home.jpg) | ![](screenshots/search.jpg) |
 
 | Hourly Forecast | Air Quality |
 |----------------|-------------|
-| ![](screenshots/hourly.png) | ![](screenshots/air_quality.png) |
+| ![](screenshots/hourly.jpg) | ![](screenshots/air_quality.jpg) |
 
-| Favorites | Forecast |
-|-----------|----------|
-| ![](screenshots/favorites.png) | ![](screenshots/forecast.png) |
+| Favourites | Forecast |
+|------------|----------|
+| ![](screenshots/favourites.jpg) | ![](screenshots/forecast.jpg) |
 
----
+| Weather | Night |
+|---------|-------|
+| ![](screenshots/weather.jpg) | ![](screenshots/night.jpg) |
 
 # ✨ Features
 
